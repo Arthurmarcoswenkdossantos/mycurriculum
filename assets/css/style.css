@@ -1,8 +1,13 @@
+
+body{
+    color: white;
+}
+
 .estilo {
-    background-color: rgb(179, 178, 199);
+    background-color: rgb(7, 4, 65);
 }
 .estilo2 {
-    background-color: rgb(154, 139, 168);
+    background-color: rgb(38, 16, 58);
 }
  .foto {
      width: 300px;
